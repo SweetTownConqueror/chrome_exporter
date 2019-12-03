@@ -1,0 +1,14 @@
+{
+  "name": "Chrome Exporter",
+  "description": "Export Cookies, History and Favorites",
+  "version": "0.1",
+  "manifest_version": 2,
+  "browser_action": {
+  "default_icon": "img/transfer-16.png",
+  "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab", "bookmarks", "cookies", "\u003Call_urls>", "history"
+   ],
+  "icons": { "16": "img/transfer-16.png", "64": "img/transfer-64.png", "128": "img/transfer-128.png" }
+}

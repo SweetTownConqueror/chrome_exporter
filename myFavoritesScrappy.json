@@ -1,0 +1,20 @@
+[
+{"children":[
+		{"children":[
+			{"children":[
+				{"dateAdded":1574969864020,"id":"10215","index":0,"parentId":"10214","title":"monfavoris1","url":"http://nimportequoi/"},
+				{"children":[
+					{"dateAdded":1574969910928,"id":"10217","index":0,"parentId":"10216","title":"monfavoris2","url":"http://mmm/"}
+				],"dateAdded":1574969898591,"dateGroupModified":1574969910928,"id":"10216","index":1,"parentId":"10214","title":"a1"}],
+				"dateAdded":1574969841846,"dateGroupModified":1574969942715,"id":"10214","index":0,"parentId":"1","title":"a"
+			},{"dateAdded":1574969942715,"id":"10218","index":1,"parentId":"1","title":"monfavoris3","url":"http://hhd/"}
+		],"dateAdded":1534725167445,"dateGroupModified":1574969954574,"id":"1","index":0,"parentId":"0","title":"Barre de favoris"
+		},
+
+	{"children":[
+		{"children":[{"dateAdded":1574970028052,"id":"10220","index":0,"parentId":"10219","title":"monfavoris4","url":"http://aa/"}],
+			"dateAdded":1574970007775,"dateGroupModified":1574970028052,"id":"10219","index":0,"parentId":"2","title":"autrefav"},
+		{"dateAdded":1574970090459,"id":"10222","index":1,"parentId":"2","title":"monfavoris5","url":"http://aaa/"}],
+	"dateAdded":1534725167445,"dateGroupModified":1574970090459,"id":"2","index":1,"parentId":"0","title":"Autres favoris"}],
+"dateAdded":1574624444509,"id":"0","title":""
+}]
